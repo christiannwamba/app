@@ -1,7 +1,11 @@
 # Realtime Comments Widget (Next.js & Pusher)
 
 
-This project contains the source code for a very simple realtime comments widget application with sentiment analysis. With sentiment analysis, we are able to detect the mood of a person based on the words they use in their comments. Here is a screenshot of the application.
+This project contains the source code for a very simple realtime comments widget application with sentiment analysis. With sentiment analysis, we are able to detect the mood of a person based on the words they use in their comments. 
+
+[View tutorial](https://pusher.com/tutorials/comments-sentiment-analysis-nextjs)
+
+Here is a screenshot of the application.
 
 ![App Screenshot](https://i.imgur.com/DtLF0GH.png)
 
